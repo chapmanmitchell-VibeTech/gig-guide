@@ -1,0 +1,12 @@
+# Downloaded add-ons — rebuilt by `npm install`
+node_modules/
+
+# Expo's own scratch files
+.expo/
+dist/
+
+# Mac clutter
+.DS_Store
+
+# Old backups
+*.bak
