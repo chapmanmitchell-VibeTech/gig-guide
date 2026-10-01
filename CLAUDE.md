@@ -7,7 +7,7 @@ If this file and the doc disagree, the doc wins — ask the user.
 ## Notes for Claude Code
 
 - **Talk to the user in short replies and plain words.** They are not a coder. One step at a time.
-- **Stack:** Expo (SDK 52), React Native, JavaScript. No navigation library; tabs and a simple screen stack live in `App.js`.
+- **Stack:** Expo (SDK 57), React Native, JavaScript. No navigation library; tabs and a simple screen stack live in `App.js`.
 - **Files:** `App.js` (fonts, tabs, screen stack, saving), `theme.js` (colours, fonts, the four venues, genres, badges),
   `dates.js` (date and time helpers), `seed.js` (starting gigs and DJ/crew profiles — samples are marked),
   `storage.js` (saves on the phone with AsyncStorage — swap this for the shared database later),
